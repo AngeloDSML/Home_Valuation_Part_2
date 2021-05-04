@@ -1,14 +1,13 @@
 ### **Intro to Machine Learning for Residential Appraisers, Part 2**
 &nbsp;  
-***“Every company has big data in its future, and every company will eventually be in the data business.”*** - Thomas H. Davenport 
 
-&nbsp;  
-In Part 1 **[Intro to Machine Learning for Residential Appraisers]**(https://github.com/AngeloDSML/Home_Valuation_Part_1) we covered data collection, data wrangling/cleaning, visualizations, and data modeling. Then we ran predictions using two regression techniques, Linear Regression and Decision Tree Regression.
-Since we already covered the data pre-processing steps in Part 1, we will not cover those steps again in Part 2. Instead, we will jump right to data modeling and predictions, but this time we will work with Extreme Gradient Boosting (XGBoost) and Random Forest. 
+In Part 1 **[Intro to Machine Learning for Residential Appraisers, Part 1](https://github.com/AngeloDSML/Home_Valuation_Part_1)**, we covered data collection, data wrangling/cleaning, visualizations, and data modeling. Then we ran predictions using two regression techniques, Linear Regression and Decision Tree Regression.
+&nbsp;
+
+Since we already covered the data pre-processing steps in Part 1, we will not cover those steps again in Part 2. Instead, we will jump right into data modeling and predictions, but this time we will work with **Extreme Gradient Boosting (XGBoost)** and **Random Forest**. 
 
 
-[Here](https://github.com/AngeloDSML/Home_Valuation_Part_2/edit/main/README.md) is a quick tutorial to show how to explore a homes sales dataset and run a couple of simple Machine Learning Models for Home Valuations.
-
+[Here](https://github.com/AngeloDSML/Home_Valuation_Part_2/edit/main/README.md) is the link to the notebook.
 
 
 ### Quick Tutorial - Machine Learning Models for Residential Appraisers, Part 2 (Extreme Gradient Boosting and Random Forest)
