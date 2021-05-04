@@ -22,7 +22,7 @@ But this is all a good thing. Appraisers are uniquely positioned to level up the
 #### ***The future of the appraisal/valuation industry lies in the intersection of advanced computational power (big data and machine learning) and domain expertise (appraiser).***
 &nbsp;  
 
-[Here](https://github.com/AngeloDSML/Home_Valuation/blob/main/HomeValuation.ipynb) is a quick tutorial to show how to explore a homes sales dataset and run a couple of simple Machine Learning Models for Home Valuations.
+[Here](https://github.com/AngeloDSML/Home_Valuation_Part_2/edit/main/README.md) is a quick tutorial to show how to explore a homes sales dataset and run a couple of simple Machine Learning Models for Home Valuations.
 
 
 
