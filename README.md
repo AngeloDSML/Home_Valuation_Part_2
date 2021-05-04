@@ -41,7 +41,7 @@ The purpose of this tutorial is for residential appraisers interested in machine
 
 &nbsp;  
 **Obtain the data:**
-We will be using a dataset of home sales that includes sales prices and several predicting features, in csv format *(Already pre-processed from Part 1 of the tutorial)*. 
+We will be using a dataset of home sales that includes sales prices and several predicting features, in csv format ***(Already pre-processed from Part 1 of the tutorial)***. 
 
 The easiest way to obtain a dataset for your specific market area is by creating a custom csv export from your local MLS system. If you don’t know how to create it you should get technical support from your MLS provider.
 
